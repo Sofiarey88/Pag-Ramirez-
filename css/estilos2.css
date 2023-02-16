@@ -1,0 +1,28 @@
+img {border: 10px #110612;}
+body {background-color: rgb(238, 237, 244);
+}
+img{
+    width: 140px;
+    height: 160px;
+    position: relative;
+    left: 45%;
+    top: 25%;
+}
+*{color: rgb(11, 11, 11);}
+h1,h2{border: solid 8px rgba(67, 2, 45, 0.51);}
+body{ background-image: url("../imgs/WhatsApp\ Image\ 2023-01-05\ at\ 18.20.09.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    border-radius: 10px;
+    padding: 10px;
+}
+footer {
+    font-weight: 300;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2rem;
+    background: var(--main-gray);
+    border-top: 4px solid var(--main-red);
+}
